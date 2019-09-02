@@ -1,5 +1,6 @@
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 
 body {
@@ -710,6 +711,18 @@ CONTENT STYLE
     padding: 20px;
     margin-top: 167%;
 }
+.foot667{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+  
+  color: #4F4F4F;
+  padding: 20px;
+  margin-top: 227%;
+}
 .foot665{
     font-family: 'Poppins';
     font-style: normal;
@@ -1279,6 +1292,194 @@ input[type="number"] {
   top: 28px;
   right: 10px;
   z-index: 1;
+}
+.dashy1{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 21px;
+  
+  color: #5E6D85;
+  
+}
+.dashy2{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.9672px;
+  line-height: 16px;
+  /* identical to box height */
+  
+  color: #3D4647;
+}
+.dashy3{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 14px;
+  /* identical to box height */
+  
+  color: #A9A9A9;
+}
+.dashy4{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 18px;
+  /* identical to box height */
+  
+  color: #0B6B9B;
+  
+}
+.scalan2{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 10px 10px 0px 0px;
+  padding: .5rem 4%;
+}
+/* popup */
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  /* background-color: rgba(0,0,0,0.4);  */
+  background: rgba(9, 9, 9, 0.75);
+  z-index: 88;
+  
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto; /* 15% from the top and centered */
+  /* padding: 20px; */
+  border: 1px solid #888;
+  width: 50%; /* Could be more or less, depending on screen size */
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  box-shadow: -6.51251px 6.51251px 13.9554px rgba(0, 0, 0, 0.13);
+  border-radius: 10px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.westy{
+  background: linear-gradient(273.11deg, #127BB2 -40.9%, #145B80 99.63%);
+  mix-blend-mode: normal;
+  border-radius: 9px 0px 0px 9px;
+  padding: 4% 2%;
+}
+.westy .a1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  color: rgba(112, 204, 251, 0.3);
+  
+}
+.actives{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #63C1F0;
+  
+}
+.westy a:hover{
+  color: #043147;
+}
+.southy{
+  padding: 5.2% 2%;
+}
+.sot1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  /* identical to box height */
+  letter-spacing: 0.06em;
+  text-align: center;
+  
+  color: #3D3D3D;
+  
+}
+.scal1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  letter-spacing: 0.06em;
+  
+  color: #828282;
+}
+.spannq{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 8px;
+  line-height: 12px;
+  /* identical to box height */
+  letter-spacing: 0.06em;
+  
+  color: #70CCFB;
+}
+.scopa{
+  background: rgba(220, 220, 220, 0.73);
+  border-radius: 5px 0px 0px 5px;
+  /* padding: .4rem .3rem; */
+  
+}
+.input-group-addon{
+  background: #0F82BC;
+
+}
+.otis1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  letter-spacing: 0.06em;
+  
+  color: #4CB449;
+  
+}
+.waxxy{
+  background: rgba(220, 220, 220, 0.73);
+  border-radius: 5px 0px 0px 5px;
+  padding: 0 0 0 .3rem;
+  
 }
 /* ---------------------------------------------------
 MEDIAQUERIES
