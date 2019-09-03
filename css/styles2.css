@@ -1498,3 +1498,17 @@ MEDIAQUERIES
 		display: none;
 	}
 }
+/* Bigger screens */
+@media screen and (min-width: 1680px){
+  
+}
+
+/* Tablet */
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  
+}
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+  
+}

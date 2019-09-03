@@ -638,3 +638,218 @@ color: #707070;
     color: #C4C4C4;
     text-align: center;
 }
+/* Bigger screens */
+@media screen and (min-width: 1680px){
+  
+}
+
+/* Tablet */
+/* @media screen and (max-width: 900px) and (min-width: 600px) {
+  
+} */
+
+/* Mobile */
+/* @media screen and (max-width: 600px) {
+  
+} */
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+    .lend__1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .lend__2{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .didon{
+        width: 70%;
+    }
+    .didon1{
+        width: 40%;
+    }
+    .nav-link{
+        
+        margin: 2px;
+        font-family: 'Poppins';
+        font-size: 13px;
+        
+    }
+    .styl{
+        width: 53%;
+        
+    }
+    .googi{
+        margin-top: 1rem;
+        margin-left: -.8rem !important;
+        margin-bottom: .6rem;
+    }
+    .goog1{
+        margin-left: -4%;
+        width: 80%;
+    }
+    .lend__212{
+        font-size: 27px;
+        line-height: 40px;
+        margin-left: 2% !important;
+
+    }
+    .lend__213{
+        font-size: 13.5px;
+        line-height: 22px;
+        margin-left: 2% !important;
+        margin-bottom: 2rem;
+    }
+    .plim{
+        width: 15%;
+        margin: 0 auto;
+    }
+    .sect-1{
+        font-size: 15px;
+        line-height: 120%;
+    }
+    .sect-2{
+        font-size: 12px;
+        line-height: 22px;
+
+    }
+    .sect-3{
+        margin-left: 20.8%;
+        border-radius: 24.5px;
+        text-align: center;
+        padding: .8rem .8rem;
+
+    }
+    .sect-21{
+        font-size: 39.355px;
+        line-height: 100px;
+
+    }
+    .smal{
+        font-size: 30.355px;
+    }
+    .sect-22{
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #12191D;
+        margin-top: -5%;
+        padding: 0 1rem;
+
+    }
+    .sect-23{
+        font-size: 15px;
+        line-height: 29px;
+        padding: 0 1rem;
+
+    }
+    .sect-31{
+        border-radius: 58.0372px 58.0372px 0px 58.0372px;
+        font-size: 15px;
+    }
+    .sect-32{
+        
+        border-radius: 82px 82px 0px 82px;
+        font-size: 15px;
+        
+    }
+    .spun{
+        margin: 35% !important;
+    
+    }
+    .sass1{
+        width: 90%;
+        margin-left: 4%;
+    }
+    .sass2{
+        width: 70%;
+        height: 80%;
+        margin-top: 12%;
+        margin-left: 13%;
+    }
+    .sect-33{
+        font-size: 28px;
+        line-height: 40px;
+
+    }
+    .sect-331{
+        font-size: 13px;
+        line-height: 27px;
+
+    }
+    i{
+        background: #FFFFFF;
+        border-radius: 5px;
+        padding: .6rem 1.5rem;
+        color: #259DD9;
+    }
+    .way2{
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .guh2{
+        margin-top: 1rem;
+        margin-left: 19px !important;
+        width: 45%;
+        
+    }
+    .guh1{
+        width: 45%;
+        margin-top: 2rem;
+        margin-left: 18px;
+    }
+    .foot1{
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .foot2{
+        font-size: 11.5px;
+        line-height: 18px;
+    }
+    footer .flic{
+        display: flex !important;
+    }
+    footer .flic a{
+        margin: 8px 5px 0 0 !important;
+    }
+    .queers p{
+        margin-left: -1%;
+    }
+    .queers{
+        margin-top: 5%;
+    }
+    .queer p{
+        margin-left: -2%;
+    }
+    .foot5{
+        font-size: 9px;
+        line-height: 18px;
+    }
+    .foot3{
+        font-size: 15px;
+        line-height: 24px;
+
+    }
+    .lend__21{
+        background: #89FFB3;
+        padding: .5rem .8rem;
+        border-radius: 25.5px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 22px;
+        color: #12191D;
+    }
+    
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+/* STYLES GO HERE */
+}
