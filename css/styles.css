@@ -964,9 +964,9 @@ and (max-device-width : 480px) {
     .takings{
         margin-left: -3%;
     }
-    /* .sissy{
+    .sissy{
         margin-left: 115px !important;
-    } */
+    }
     .takin{
         margin-left: -2% !important;
         display: grid !important;
@@ -975,7 +975,7 @@ and (max-device-width : 480px) {
         grid-auto-rows: minmax(100px, auto);
     }
     /* .gigg11{
-        margin-top: -8% !important;
+        margin-top: 8% !important;
     } */
     
 
