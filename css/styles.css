@@ -691,6 +691,12 @@ and (max-device-width : 480px) {
         margin-left: -4%;
         width: 80%;
     }
+    .goog{
+        width: 35%;
+    }
+    .googs{
+        width: 32%;
+    }
     .lend__212{
         font-size: 27px;
         line-height: 40px;
@@ -843,6 +849,9 @@ and (max-device-width : 480px) {
         font-size: 15px;
         line-height: 22px;
         color: #12191D;
+    }
+    .phun{
+        opacity: 0;
     }
     
 
