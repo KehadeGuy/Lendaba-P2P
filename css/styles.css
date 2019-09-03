@@ -68,17 +68,20 @@ body{
     box-shadow: -3px 4px 4px rgba(0, 0, 0, 0.05);
     text-decoration: none;
 }
+.waqq{
+    position: relative;
+}
+.phun{
+    position: absolute;
+    bottom: 0;
+    right: -9.2%;
+    width: 50%;
+}
+
 
 a{
     text-decoration: none !important;
 }
-.phun{
-    position: absolute;
-    bottom: -25.7%;
-    right: 0;
-    width: 50%;
-}
-
 .goog1{
     width: 100%;
     height: 100%;
@@ -652,7 +655,6 @@ color: #707070;
 /* @media screen and (max-width: 600px) {
   
 } */
-
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen
 and (min-device-width : 320px)
@@ -976,6 +978,16 @@ and (max-device-width : 480px) {
         margin-bottom: -24%;
     }
 
+}
+/* Bigger screens */
+@media screen and (min-width: 1680px){
+    .phun{
+        position: absolute;
+        bottom: 0;
+        right: -23.38%;
+        width: 50%;
+    }
+  
 }
 
 /* Smartphones (portrait) ----------- */
