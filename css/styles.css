@@ -959,6 +959,23 @@ and (max-device-width : 480px) {
     }
     .sign__3{
         margin-top: 1.4% !important;
+        margin-left: -2% !important;
+    }
+    .takings{
+        margin-left: -3%;
+    }
+    .sissy{
+        margin-left: 115px !important;
+    }
+    .takin{
+        margin-left: -2% !important;
+        display: grid !important;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 10px;
+        grid-auto-rows: minmax(100px, auto);
+    }
+    .gigg11{
+        margin-top: -8% !important;
     }
     
 
