@@ -665,7 +665,7 @@ and (max-device-width : 480px) {
         font-size: 14px;
         line-height: 22px;
     }
-    .didon{
+    .didon, .didon11{
         width: 70%;
     }
     .didon1{
@@ -852,6 +852,76 @@ and (max-device-width : 480px) {
     }
     .phun{
         opacity: 0;
+    }
+    .ht__1{
+        font-size: 39.8036px;
+        line-height: 130%;
+    }
+    .ht__2{
+        font-size: 20.3912px;
+        line-height: 140%;
+    }
+    /* .awonero{
+        margin-top: 1px !important;
+    } */
+    .keffy input{
+        margin-left: -2% !important;
+    }
+    .keffy{
+        margin-top: 1rem;
+        margin-bottom: 1.9rem;
+    }
+    .hiw11{
+        margin-left: -2% !important;
+    }
+    .hiw1{
+        margin-left: -27%;
+    }
+    
+    .hiw2{
+        font-size: 22.3077px;
+        line-height: 129%;   
+        margin-left: -27%;
+    }
+    .hiw22{
+        font-size: 22.3077px;
+        line-height: 139%;   
+        margin-left: -3%;
+    }
+    .hiw3{
+        font-size: 12px;
+        line-height: 22px;
+        margin-left: -27%;
+    }
+    .hiw33{
+        font-size: 12px;
+        line-height: 22px;
+        margin-left: -27%;
+        margin-left: -3%;
+    }
+    .hiw4{
+        font-size: 11px;
+        line-height: 22px;
+        margin-left: -27%;
+    }
+    .hiw44{
+        font-size: 11px;
+        line-height: 22px;
+
+        margin-left: -3%;
+    }
+    .awonero{
+        margin-bottom: 3%;
+    }
+    .jigi{
+        margin-top: 2rem !important;
+        margin-left: 15.9% !important;
+        margin-bottom: 2rem !important;
+    }
+    .jigi2{
+        margin-top: .5rem !important;
+        margin-left: 15.9% !important;
+        margin-bottom: 1rem !important;
     }
     
 
