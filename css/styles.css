@@ -671,6 +671,9 @@ and (max-device-width : 480px) {
     .didon1{
         width: 40%;
     }
+    .didon2{
+        width: 55%;
+    }
     .nav-link{
         
         margin: 2px;
@@ -830,7 +833,7 @@ and (max-device-width : 480px) {
     .queer p{
         margin-left: -2%;
     }
-    .foot5{
+    .foot5, .foot6{
         font-size: 9px;
         line-height: 18px;
     }
@@ -922,6 +925,40 @@ and (max-device-width : 480px) {
         margin-top: .5rem !important;
         margin-left: 15.9% !important;
         margin-bottom: 1rem !important;
+    }
+    .jigi3{
+        margin-top: .3rem !important;
+        margin-left: 15.9% !important;
+        margin-bottom: 1rem !important;
+    }
+    .drip2{
+        width: 20%;
+        position: absolute;
+        top: 2px;
+        left: 5%;
+    }
+    .paddy{
+        padding: 0 !important;
+    }
+    .taking{
+        margin-left: -5%;   
+    }
+    .signupp{
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .wawi{
+        margin-left:25% !important;
+        
+    }
+    .wawi2{
+        margin-left:25% !important;
+        margin-top: -1rem !important;
+        margin-bottom: 1rem;
+        
+    }
+    .sign__3{
+        margin-top: 1.4% !important;
     }
     
 
