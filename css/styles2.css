@@ -1701,6 +1701,11 @@ small{
 .scalan{
   margin-right: -1% !important;
 }
+.bank__2{
+  font-size: 12px;
+  line-height: 27px;
+
+}
 }
 /* Bigger screens */
 @media screen and (min-width: 1680px){
