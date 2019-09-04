@@ -1658,6 +1658,25 @@ and (max-device-width : 480px) {
 .scala .col-md-9{
   margin-top: 8% !important;
 }
+/* account2 */
+.ogger{
+  margin-right: 4% !important;
+}
+.sun{
+  margin-bottom: 6% !important;
+}
+small{
+  font-size: 60% !important;
+}
+.nawa1{
+  display: grid !important;
+  grid-template-columns: repeat(2, 20px);
+  grid-gap: 100px;
+  margin-top: 20% !important;
+}
+.nawa1 .barnes{
+  padding: .3rem .5rem !important;
+}
 }
 /* Bigger screens */
 @media screen and (min-width: 1680px){
