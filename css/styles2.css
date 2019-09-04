@@ -1580,10 +1580,51 @@ and (max-device-width : 480px) {
     padding: .5rem 3%;
 
   }
+  .cont-1{
+    font-size: 12.9626px;
+    line-height: 38px;
 
-   
-    
-    
+  }
+  .cont-2{
+    font-size: 7px;
+    line-height: 21px;
+    margin-left: 6% !important;
+  }
+  .cont-11{
+    padding: .5rem .5rem;
+    margin-right: 6%;
+  }
+  .cont-111{
+    margin-left: 5.5%;
+  }
+  .cont-22{
+    margin-left: 17% !important;
+  }
+  .cont__1{
+    margin-top: 0% !important;
+    margin-left: 40% !important;
+  }
+  .ditty{
+    margin-left: 5% !important;
+    width: 90%;
+  }
+  .geto{
+    font-size: 12px;
+    line-height: 27px;
+
+  }
+  .baddy img{
+    margin-left: 20% !important;
+    margin-bottom: 9%;
+  }
+  .baddy{
+    margin-right: 3% !important;
+  }
+  .contt2{
+    font-size: 12px;
+    line-height: 21px;
+    text-align: justify;
+  }
     
 }
 /* Bigger screens */
