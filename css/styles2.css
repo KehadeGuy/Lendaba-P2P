@@ -1642,6 +1642,22 @@ and (max-device-width : 480px) {
   grid-gap: 50px;
   margin-top: 20% !important;
 }
+.scala{
+  margin-left: 2% !important;
+  margin-top: 8% !important;
+}
+.olly3{
+    font-size: 13.3579px;
+    line-height: 16px;
+    margin-top: 10% !important;
+
+}
+.proff{
+  margin-left: 43% !important;
+}
+.scala .col-md-9{
+  margin-top: 8% !important;
+}
 }
 /* Bigger screens */
 @media screen and (min-width: 1680px){
