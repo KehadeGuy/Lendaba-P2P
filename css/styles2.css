@@ -1595,7 +1595,7 @@ and (max-device-width : 480px) {
     margin-right: 6%;
   }
   .cont-111{
-    margin-left: 5.5%;
+    margin-left: 4.5%;
   }
   .cont-22{
     margin-left: 17% !important;
@@ -1625,7 +1625,23 @@ and (max-device-width : 480px) {
     line-height: 21px;
     text-align: justify;
   }
-    
+  /* Lend */
+ 
+ .dissy input[type=text]{
+   width: 180% !important;
+ }
+ .dissy input[type=datetime]{
+  width: 180% !important;
+}
+.dissy label{
+  width: 194% !important;
+}
+.nawa{
+  display: grid !important;
+  grid-template-columns: repeat(2, 10px);
+  grid-gap: 50px;
+  margin-top: 20% !important;
+}
 }
 /* Bigger screens */
 @media screen and (min-width: 1680px){
