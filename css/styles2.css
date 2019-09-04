@@ -1677,6 +1677,12 @@ small{
 .nawa1 .barnes{
   padding: .3rem .5rem !important;
 }
+.nawa2{
+  display: grid !important;
+  grid-template-columns: repeat(2, 20px);
+  grid-gap: 110px;
+  margin-top: 20% !important;
+}
 }
 /* Bigger screens */
 @media screen and (min-width: 1680px){
