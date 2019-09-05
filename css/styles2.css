@@ -1303,6 +1303,18 @@ input[type="number"] {
   color: #5E6D85;
   
 }
+/* textarea:focus, input:focus, select:focus {
+  color: blue;
+} */
+/* 
+input, select, textarea{
+  color: #ff0000 !important;
+}
+
+textarea:focus, input:focus {
+  color: #ff0000 !important;
+} */
+
 .dashy2{
   font-family: 'Open Sans';
   font-style: normal;
@@ -1693,6 +1705,7 @@ small{
   grid-gap: 120px;
   margin-top: 20% !important;
 }
+
 /* addCard */
 
 .sun1{
@@ -1705,6 +1718,12 @@ small{
   font-size: 12px;
   line-height: 27px;
 
+}
+.ishh{
+  margin-left: 3% !important;
+}
+.nawa4{
+  opacity: 0;
 }
 }
 /* Bigger screens */
