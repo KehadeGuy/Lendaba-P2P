@@ -604,6 +604,8 @@ color: #707070;
     /* identical to box height */
 
     color: #FFFFFF;
+    
+    margin-bottom: 30% !important;
 
 }
 .linn{
@@ -979,7 +981,7 @@ and (max-device-width : 480px) {
     }
     .wanky{
         margin-left: -5% !important;
-      }
+    }
 
 }
 /* Bigger screens */
