@@ -24,6 +24,7 @@ body.dashboard {
 	min-height: 100vh;
 }
 
+
 .active {
 	color: #259DD9 !important;
 }
@@ -1757,4 +1758,6 @@ and (max-width : 320px) {
 		display: none;
 	}
 }
-
+input, select, textarea {
+  color: black !important;
+  }

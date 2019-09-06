@@ -1005,3 +1005,7 @@ and (max-device-width : 480px) {
 and (max-width : 320px) {
 /* STYLES GO HERE */
 }
+input, select, textarea {
+    color: black !important;
+    /* font-size: 15px !important; */
+}
