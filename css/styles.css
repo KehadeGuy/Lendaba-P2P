@@ -9,6 +9,10 @@ body{
     background-image: url(../img/Group49briks.png);
     background-size: cover;
 }
+/* .scale1{
+    background-image: url(../img/Group\ 49walla.png);
+    background-size: cover;
+} */
 .underline{
     background-color: #fff;
     width: 30px;
@@ -75,7 +79,8 @@ body{
     position: absolute;
     bottom: 0;
     right: -9.2%;
-    width: 50%;
+    width: 65%;
+    height: 79%;
 }
 
 
