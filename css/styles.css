@@ -977,6 +977,9 @@ and (max-device-width : 480px) {
         grid-auto-rows: minmax(100px, auto);
         margin-bottom: -24%;
     }
+    .wanky{
+        margin-left: -5% !important;
+      }
 
 }
 /* Bigger screens */

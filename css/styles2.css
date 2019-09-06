@@ -1729,6 +1729,7 @@ small{
 .nawa3 .btn1{
   padding: .3rem 0.5rem !important;
 }
+
 }
 /* Bigger screens */
 @media screen and (min-width: 1680px){
