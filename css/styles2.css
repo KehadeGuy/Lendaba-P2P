@@ -1494,6 +1494,9 @@ textarea:focus, input:focus {
   padding: 0 0 0 .3rem;
   
 }
+.yet:hover{
+  border: 1px solid lightslategrey !important;
+}
 
 /* ---------------------------------------------------
 MEDIAQUERIES
