@@ -11,7 +11,17 @@ body {
 body.dashboard {
 	background: #F3FBFF;
 }
-
+.badge {
+  position: absolute;
+  top: 25px;
+  right: 38px;
+  font-size: .8em;
+  color: white;
+  
+}
+/* span a{
+  cursor: pointer !important;
+} */
 .fontAwesome {
 	font-family: Helvetica, 'FontAwesome', sans-serif;
 }
