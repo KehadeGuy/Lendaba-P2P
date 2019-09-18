@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,900&display=swap');
-
-body{
+    @import url('https://fonts.googleapis.com/css?family=Poppins:400,900&display=swap');
+body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins';
 }
-.scale{
+
+.scale {
     background-image: url(../img/Group49briks.png);
     background-size: cover;
 }
-.underline{
+
+.underline {
     background-color: #fff;
     width: 30px;
     height: 4px;
@@ -19,7 +20,7 @@ body{
     border-radius: 2px
 }
 
-.nav-link{
+.nav-link {
     font-size: 16px;
     margin: 15px;
     font-family: Poppins;
@@ -29,10 +30,12 @@ body{
     line-height: 24px;
     color: white;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     color: #B9B9B9 !important;
 }
-.lend__1{
+
+.lend__1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 900;
@@ -40,15 +43,17 @@ body{
     line-height: 67px;
     color: #B3E2FA;
 }
-.lend__2{
+
+.lend__2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
-    line-height: 22px;    
+    line-height: 22px;
     color: #FFFFFF;
 }
-.lend__21{
+
+.lend__21 {
     background: #89FFB3;
     padding: .8rem 1.8rem;
     border-radius: 25.5px;
@@ -59,19 +64,23 @@ body{
     line-height: 22px;
     color: #12191D;
 }
-.lend__21:hover{
+
+.lend__21:hover {
     color: #12191D;
 }
-.styl{
+
+.styl {
     border: 1px solid white;
     border-radius: 5px;
     box-shadow: -3px 4px 4px rgba(0, 0, 0, 0.05);
     text-decoration: none;
 }
-.waqq{
+
+.waqq {
     position: relative;
 }
-.phun{
+
+.phun {
     position: absolute;
     bottom: 0;
     right: -9.2%;
@@ -79,24 +88,25 @@ body{
     height: 79%;
 }
 
-
-a{
+a {
     text-decoration: none !important;
 }
-.goog1{
+
+.goog1 {
     width: 100%;
     height: 100%;
 }
-.lend__212{
+
+.lend__212 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
     line-height: 60px;
-    
     color: #12191D;
 }
-.lend__213{
+
+.lend__213 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
@@ -104,12 +114,14 @@ a{
     line-height: 22px;
     color: #12191D;
 }
-.makes{
-    background: linear-gradient(270.33deg, #1573A4 5.99%, #4BCD77 99.9%);
-    /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+
+.makes {
+    background: linear-gradient(270.33deg,#1573A4 5.99%, #4BCD77 99.9%);
+    /* transform: matrix(1, 0, 0, 1, 0, 0); */
     padding: 10% 0 4% 0;
 }
-.sect-1{
+
+.sect-1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
@@ -119,7 +131,8 @@ a{
     text-transform: uppercase;
     color: #FFFFFF;
 }
-.sect-2{
+
+.sect-2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
@@ -127,9 +140,9 @@ a{
     line-height: 22px;
     text-align: center;
     color: #FFFFFF;
-    
 }
-.sect-3{
+
+.sect-3 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -143,10 +156,12 @@ a{
     margin-top: 6%;
     color: #12191D;
 }
-.sect-3:hover{
+
+.sect-3:hover {
     color: #12191D;
 }
-.sect-21{
+
+.sect-21 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
@@ -156,13 +171,16 @@ a{
     text-align: center;
     color: #259DD9;
 }
-.smal{
+
+.smal {
     font-size: 90.355px;
 }
-.section-2{
+
+.section-2 {
     padding: 5% 0 5% 0;
 }
-.sect-22{
+
+.sect-22 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
@@ -172,7 +190,8 @@ a{
     color: #12191D;
     margin-top: -2%;
 }
-.sect-23{
+
+.sect-23 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
@@ -183,14 +202,16 @@ a{
     margin-top: -1.5%;
     color: #12191D;
 }
-.sect-32{
+
+.sect-32 {
     background: #EDEDED;
     mix-blend-mode: normal;
     border-radius: 92px 92px 0px 92px;
     padding: 2rem 3rem;
     text-align: justify;
 }
-.sect-31{
+
+.sect-31 {
     background: #EDEDED;
     mix-blend-mode: normal;
     opacity: 0.5;
@@ -198,7 +219,8 @@ a{
     text-align: justify;
     padding: 2rem 3rem;
 }
-.sect-33{
+
+.sect-33 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
@@ -207,7 +229,8 @@ a{
     text-align: center;
     color: #FFFFFF;
 }
-.sect-331{
+
+.sect-331 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
@@ -217,31 +240,35 @@ a{
     color: #FFFFFF;
     margin-top: -1.5%;
 }
-.section-3{
+
+.section-3 {
     background: linear-gradient(270.37deg, #2391CA 5.99%, #1F719C 99.9%);
     /* transform: matrix(1, 0, 0, 1, 0, 0); */
     padding: 5% 0 5% 0;
 }
-.way{
+
+.way {
     /* color: #259DD9; */
     text-align: center;
     /* margin-left: 50%; */
-    
 }
-i{
+
+i {
     background: #FFFFFF;
     border-radius: 5px;
     padding: 1rem 3rem;
     color: #259DD9;
 }
-.way1{
+
+.way1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
     line-height: 22px;
 }
-.way2{
+
+.way2 {
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
@@ -250,43 +277,45 @@ i{
     text-align: center;
     color: #FFFFFF;
 }
-.space1{
+
+.space1 {
     margin-left: 30%;
 }
-footer{
+
+footer {
     padding: 5% 10%;
 }
-.foot1{
+
+.foot1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 18px;
-    
     color: #303030;
 }
-.foot2{
+
+.foot2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 18px;
     /* identical to box height */
-    
     color: #303030;
 }
-.foot3{
+
+.foot3 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
     font-size: 19px;
     line-height: 24px;
     /* identical to box height */
-    
     color: #303030;
-    
 }
-.foot4{
+
+.foot4 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
@@ -294,7 +323,8 @@ footer{
     line-height: 22px;
     color: #303030 !important;
 }
-.foot41{
+
+.foot41 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
@@ -302,7 +332,8 @@ footer{
     line-height: 22px;
     color: #303030 !important;
 }
-.foot4 a{
+
+.foot4 a {
     color: #303030 !important;
     font-family: 'Poppins';
     font-style: normal;
@@ -310,30 +341,32 @@ footer{
     font-size: 15px;
     line-height: 22px;
     color: #303030 !important;
-
 }
-.queers p{
+
+.queers p {
     margin-left: 20%;
 }
-.queer p{
+
+.queer p {
     margin-left: 10%;
 }
-.foot5{
+
+.foot5 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 18px;
     /* identical to box height */
-    
     color: #303030;
 }
-.wasx *{
+
+.wasx * {
     margin-left: 13px;
 }
-
 /* How It Works */
-.ht__1{
+
+.ht__1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
@@ -341,11 +374,10 @@ footer{
     line-height: 120%;
     /* or 102px */
     text-transform: uppercase;
-    
     color: #B3E2FA;
-    
 }
-.ht__2{
+
+.ht__2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
@@ -354,48 +386,52 @@ footer{
     margin-top: -4%;
     /* or 44px */
     text-transform: uppercase;
-    
     color: #B3E2FA;
 }
-.keffy input{
+
+.keffy input {
     background: #FFFFFF;
     border: 0.9625px solid #818181;
     box-sizing: border-box;
     box-shadow: -3px 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 4.8125px;
 }
-::-webkit-input-placeholder { /* Edge */
-font-family: 'Poppins';
-font-style: normal;
-font-weight: normal;
-font-size: 9.625px;
-line-height: 14px;
-/* identical to box height */
-letter-spacing: 0.05em;
-color: #707070;
-  }
-  
-  :-ms-input-placeholder { /* Internet Explorer 10-11 */
-font-family: 'Poppins';
-font-style: normal;
-font-weight: normal;
-font-size: 9.625px;
-line-height: 14px;
-/* identical to box height */
-letter-spacing: 0.05em;
-color: #707070;
-  }
-  
-  ::placeholder {
-font-family: 'Poppins';
-font-style: normal;
-font-weight: normal;
-font-size: 9.625px;
-line-height: 14px;
-/* identical to box height */
-letter-spacing: 0.05em;
-color: #707070;
-  }
+
+    ::-webkit-input-placeholder {
+    /* Edge */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.625px;
+    line-height: 14px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    color: #707070;
+}
+
+    :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.625px;
+    line-height: 14px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    color: #707070;
+}
+
+    ::placeholder {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.625px;
+    line-height: 14px;
+    /* identical to box height */
+    letter-spacing: 0.05em;
+    color: #707070;
+}
+
 .taking ::placeholder {
     font-family: 'Poppins';
     font-style: normal;
@@ -405,8 +441,9 @@ color: #707070;
     /* identical to box height */
     letter-spacing: 0.05em;
     color: white;
-      }
-.laxxy{
+}
+
+.laxxy {
     background: #259DD9 !important;
     box-shadow: 0px 4.29679px 4.29679px rgba(0, 0, 0, 0.15);
     border-radius: 5.37099px;
@@ -417,86 +454,90 @@ color: #707070;
     line-height: 21px;
     color: #FFFFFF;
 }
-.hiw1{
+
+.hiw1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 22px;
     /* identical to box height */
-    
     color: #259DD9;
 }
-.hiw2{
+
+.hiw2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
     font-size: 32.3077px;
     line-height: 129%;
     /* or 42px */
-    
     color: #011B33;
 }
-.hiw3{
+
+.hiw3 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 22px;
-    
     color: #12191D;
-    
 }
-.hiw4{
+
+.hiw4 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 22px;
     /* identical to box height */
-    
     color: #259DD9;
-    
 }
-.drips,.drips1{
+
+.drips,
+.drips1 {
     position: relative;
 }
-.drip{
+
+.drip {
     width: 30%;
     position: absolute;
     top: 0;
     left: -9%;
 }
-.section-12{
+
+.section-12 {
     background: linear-gradient(270.33deg, #F9F9F9 5.99%, #FAFAFA 99.9%);
     /* transform: matrix(-1, 0, 0, 1, 0, 0); */
 }
-.drip1{
+
+.drip1 {
     width: 18%;
     position: absolute;
     top: 0;
     left: 50%;
-    
 }
-.drip2{
+
+.drip2 {
     width: 12%;
     position: absolute;
     top: 2px;
     left: -8%;
-    
 }
-.drip4{
+
+.drip4 {
     width: 12%;
     position: absolute;
     top: 2px;
     right: -8%;
-    
 }
 /* Sign Up */
-.scales{
+
+.scales {
     background: linear-gradient(212.24deg, #127CB4 8.45%, #145B7F 74.89%);
 }
-.underline1{
+
+.underline1 {
     background-color: #fff;
     width: 30px;
     height: 4px;
@@ -505,19 +546,19 @@ color: #707070;
     top: 50px;
     border-radius: 2px
 }
-.signupp{
+
+.signupp {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 30px;
     /* identical to box height */
-    
     color: #FFFFFF;
     text-align: center;
-    
 }
-.sign__3{
+
+.sign__3 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
@@ -525,21 +566,21 @@ color: #707070;
     line-height: 21px;
     /* identical to box height */
     text-align: center;
-    
     color: #C4C4C4;
 }
-.gigg11{
+
+.gigg11 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
     line-height: 21px;
     /* identical to box height */
-    
     color: #FFFFFF;
     text-align: center;
 }
-.gigg2{
+
+.gigg2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
@@ -547,19 +588,18 @@ color: #707070;
     line-height: 21px;
     /* identical to box height */
     text-transform: uppercase;
-    
     color: #70CCFB;
     text-align: center;
-    
 }
-.sign__1{
+
+.sign__1 {
     background: #34A853;
     border-radius: 5px;
     color: white;
     width: 100%;
-    
 }
-.sig1{
+
+.sig1 {
     margin-left: 9px;
     font-family: 'Poppins';
     font-style: normal;
@@ -570,12 +610,14 @@ color: #707070;
     text-align: center;
     margin-left: 40px;
 }
-.sign__2{
+
+.sign__2 {
     background: white;
     border-radius: 5px;
     width: 100%;
 }
-.sig2{
+
+.sig2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
@@ -583,18 +625,17 @@ color: #707070;
     line-height: 21px;
     /* identical to box height */
     margin-left: 40px;
-    
     color: #4267B2;
-    
-    
 }
-.section-sign input{
+
+.section-sign input {
     border: 1px solid #C4C4C4;
     box-sizing: border-box;
     border-radius: 5px;
     background-color: transparent !important;
 }
-.laxy{
+
+.laxy {
     background: #259DD9 !important;
     border-radius: 5px;
     font-family: Poppins;
@@ -603,245 +644,227 @@ color: #707070;
     font-size: 14px;
     line-height: 21px;
     /* identical to box height */
-
     color: #FFFFFF;
-    
     margin-bottom: 30% !important;
-
 }
-.linn{
+
+.linn {
     background: #C4C4C4;
     /* border-radius: 3px; */
     height: 1px;
     width: 100%;
     margin-top: 10px;
 }
-.foot6{
+
+.foot6 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: normal;
     font-size: 11px;
     line-height: 18px;
     /* identical to box height */
-    
     color: white;
     padding-bottom: 2%;
 }
-.taking{
+
+.taking {
     margin-left: 35%;
 }
-.takings{
+
+.takings {
     margin-left: 23%;
 }
-.sigpp{
+
+.sigpp {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 300;
     font-size: 13px;
     line-height: 24px;
     /* identical to box height */
-    
     color: #C4C4C4;
     text-align: center;
 }
 /* Bigger screens */
-@media screen and (min-width: 1680px){
-  
-}
 
+@media screen and (min-width: 1680px) {}
 /* Tablet */
 /* @media screen and (max-width: 900px) and (min-width: 600px) {
-  
-} */
 
+} */
 /* Mobile */
 /* @media screen and (max-width: 600px) {
-  
+
 } */
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-    .lend__1{
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .lend__1 {
         font-size: 40px;
         line-height: 50px;
     }
-    .lend__2{
+    .lend__2 {
         font-size: 14px;
         line-height: 22px;
     }
-    .didon, .didon11{
+    .didon,
+    .didon11 {
         width: 70%;
     }
-    .didon1{
+    .didon1 {
         width: 40%;
     }
-    .didon2{
+    .didon2 {
         width: 55%;
     }
-    .nav-link{
-        
+    .nav-link {
         margin: 2px;
         font-family: 'Poppins';
         font-size: 13px;
-        
     }
-    .styl{
+    .styl {
         width: 53%;
-        
     }
-    .googi{
+    .googi {
         margin-top: 1rem;
         margin-left: -.8rem !important;
         margin-bottom: .6rem;
     }
-    .goog1{
+    .goog1 {
         margin-left: -4%;
         width: 80%;
     }
-    .goog{
+    .goog {
         width: 35%;
     }
-    .googs{
+    .googs {
         width: 32%;
     }
-    .lend__212{
+    .lend__212 {
         font-size: 27px;
         line-height: 40px;
         margin-left: 2% !important;
-
     }
-    .lend__213{
+    .lend__213 {
         font-size: 13.5px;
         line-height: 22px;
         margin-left: 2% !important;
         margin-bottom: 2rem;
     }
-    .plim{
+    .plim {
         width: 15%;
         margin: 0 auto;
     }
-    .sect-1{
+    .sect-1 {
         font-size: 15px;
         line-height: 120%;
     }
-    .sect-2{
+    .sect-2 {
         font-size: 12px;
         line-height: 22px;
-
     }
-    .sect-3{
+    .sect-3 {
         margin-left: 20.8%;
         border-radius: 24.5px;
         text-align: center;
         padding: .8rem .8rem;
-
     }
-    .sect-21{
+    .sect-21 {
         font-size: 39.355px;
         line-height: 100px;
-
     }
-    .smal{
+    .smal {
         font-size: 30.355px;
     }
-    .sect-22{
+    .sect-22 {
         font-size: 16px;
         line-height: 26px;
         text-align: center;
         color: #12191D;
         margin-top: -5%;
         padding: 0 1rem;
-
     }
-    .sect-23{
+    .sect-23 {
         font-size: 15px;
         line-height: 29px;
         padding: 0 1rem;
-
     }
-    .sect-31{
+    .sect-31 {
         border-radius: 58.0372px 58.0372px 0px 58.0372px;
         font-size: 15px;
     }
-    .sect-32{
-        
+    .sect-32 {
         border-radius: 82px 82px 0px 82px;
         font-size: 15px;
-        
     }
-    .spun{
+    .spun {
         margin: 35% !important;
-    
     }
-    .sass1{
+    .sass1 {
         width: 90%;
         margin-left: 4%;
     }
-    .sass2{
+    .sass2 {
         width: 70%;
         height: 80%;
         margin-top: 12%;
         margin-left: 13%;
     }
-    .sect-33{
+    .sect-33 {
         font-size: 28px;
         line-height: 40px;
-
     }
-    .sect-331{
+    .sect-331 {
         font-size: 13px;
         line-height: 27px;
-
     }
-    i{
+    i {
         background: #FFFFFF;
         border-radius: 5px;
         padding: .6rem 1.5rem;
         color: #259DD9;
     }
-    .way2{
+    .way2 {
         font-size: 15px;
         line-height: 27px;
     }
-    .guh2{
+    .guh2 {
         margin-top: 1rem;
         margin-left: 19px !important;
         width: 45%;
-        
     }
-    .guh1{
+    .guh1 {
         width: 45%;
         margin-top: 2rem;
         margin-left: 18px;
     }
-    .foot1{
+    .foot1 {
         font-size: 12px;
         line-height: 15px;
     }
-    .foot2{
+    .foot2 {
         font-size: 11.5px;
         line-height: 18px;
     }
-    .queers p{
+    .queers p {
         margin-left: -1%;
     }
-    .queers{
+    .queers {
         margin-top: 5%;
     }
-    .queer p{
+    .queer p {
         margin-left: -2%;
     }
-    .foot5, .foot6{
+    .foot5,
+    .foot6 {
         font-size: 9px;
         line-height: 18px;
     }
-    .foot3{
+    .foot3 {
         font-size: 15px;
         line-height: 24px;
-
     }
-    .lend__21{
+    .lend__21 {
         background: #89FFB3;
         padding: .5rem .8rem;
         border-radius: 25.5px;
@@ -852,156 +875,152 @@ and (max-device-width : 480px) {
         line-height: 22px;
         color: #12191D;
     }
-    .phun{
+    .phun {
         opacity: 0;
     }
-    .ht__1{
+    .ht__1 {
         font-size: 39.8036px;
         line-height: 130%;
     }
-    .ht__2{
+    .ht__2 {
         font-size: 20.3912px;
         line-height: 140%;
     }
     /* .awonero{
-        margin-top: 1px !important;
-    } */
-    .keffy input{
+margin-top: 1px !important;
+} */
+    .keffy input {
         margin-left: -2% !important;
     }
-    .keffy{
+    .keffy {
         margin-top: 1rem;
         margin-bottom: 1.9rem;
     }
-    .hiw11{
+    .hiw11 {
         margin-left: -2% !important;
     }
-    .hiw1{
+    .hiw1 {
         margin-left: -27%;
     }
-    
-    .hiw2{
+    .hiw2 {
         font-size: 22.3077px;
-        line-height: 129%;   
+        line-height: 129%;
         margin-left: -27%;
     }
-    .hiw22{
+    .hiw22 {
         font-size: 22.3077px;
-        line-height: 139%;   
+        line-height: 139%;
         margin-left: -3%;
     }
-    .hiw3{
+    .hiw3 {
         font-size: 12px;
         line-height: 22px;
         margin-left: -27%;
     }
-    .hiw33{
+    .hiw33 {
         font-size: 12px;
         line-height: 22px;
         margin-left: -27%;
         margin-left: -3%;
     }
-    .hiw4{
+    .hiw4 {
         font-size: 11px;
         line-height: 22px;
         margin-left: -27%;
     }
-    .hiw44{
+    .hiw44 {
         font-size: 11px;
         line-height: 22px;
-
         margin-left: -3%;
     }
-    .awonero{
+    .awonero {
         margin-bottom: 3%;
     }
-    .jigi{
+    .jigi {
         margin-top: 2rem !important;
         margin-left: 15.9% !important;
         margin-bottom: 2rem !important;
     }
-    .jigi2{
+    .jigi2 {
         margin-top: .5rem !important;
         margin-left: 15.9% !important;
         margin-bottom: 1rem !important;
     }
-    .jigi3{
+    .jigi3 {
         margin-top: .3rem !important;
         margin-left: 15.9% !important;
         margin-bottom: 1rem !important;
     }
-    .drip2{
+    .drip2 {
         width: 20%;
         position: absolute;
         top: 2px;
         left: 5%;
     }
-    .paddy{
+    .paddy {
         padding: 0 !important;
     }
-    .taking{
-        margin-left: -5%;   
+    .taking {
+        margin-left: -5%;
     }
-    .signupp{
+    .signupp {
         font-size: 15px;
         line-height: 30px;
     }
-    .wawi{
-        margin-left:25% !important;
-        
+    .wawi {
+        margin-left: 25% !important;
     }
-    .wawi2{
-        margin-left:25% !important;
+    .wawi2 {
+        margin-left: 25% !important;
         margin-top: -1rem !important;
         margin-bottom: 1rem;
-        
     }
-    .sign__3{
+    .sign__3 {
         margin-top: 1.4% !important;
         margin-left: -2% !important;
     }
-    .takings{
+    .takings {
         margin-left: -3%;
     }
-    .sissy{
+    .sissy {
         margin-left: 135px !important;
     }
-    .takin{
+    .takin {
         margin-left: -2% !important;
         display: grid !important;
         grid-template-columns: repeat(4, 1fr);
         grid-gap: 10px;
         grid-auto-rows: minmax(100px, auto);
     }
-    .flic{
+    .flic {
         display: grid !important;
         grid-template-columns: repeat(3, 10px);
         grid-gap: 30px;
         grid-auto-rows: minmax(100px, auto);
         margin-bottom: -24%;
     }
-    .wanky{
+    .wanky {
         margin-left: -5% !important;
     }
-
 }
 /* Bigger screens */
-@media screen and (min-width: 1680px){
-    .phun{
+
+@media screen and (min-width: 1680px) {
+    .phun {
         position: absolute;
         bottom: 0;
         right: -23.38%;
         width: 50%;
     }
-  
+}
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width: 320px) {
+    /* STYLES GO HERE */
 }
 
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-/* STYLES GO HERE */
-}
-input, select, textarea {
+input,
+select,
+textarea {
     color: black !important;
     /* font-size: 15px !important; */
-}
