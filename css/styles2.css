@@ -1393,6 +1393,70 @@ textarea:focus, input:focus {
   box-shadow: -6.51251px 6.51251px 13.9554px rgba(0, 0, 0, 0.13);
   border-radius: 10px;
 }
+/* popup */
+/* The Modal (background) */
+.modal1 {
+  display: none; /* Hidden by default */
+  position: absolute; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  right:-120px;
+  top: 35px;
+  width: 50%; /* Full width */
+  height: 50%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  /* background-color: rgb(0,0,0); Fallback color */
+  /* background-color: rgba(0,0,0,0.4);  */
+  /* background: rgba(9, 9, 9, 0.75); */
+  z-index: 88;
+
+  
+}
+
+/* Modal Content/Box */
+.modal-content1 {
+  background-color: #fefefe;
+  margin: 5% auto; /* 15% from the top and centered */
+  /* padding: 20px; */
+  border: 1px solid #888;
+  width: 50%; /* Could be more or less, depending on screen size */
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  box-shadow: -6.51251px 6.51251px 13.9554px rgba(0, 0, 0, 0.13);
+  border-radius: 2px;
+  
+}
+/* popup */
+/* The Modal (background) */
+.modal2 {
+  display: none; /* Hidden by default */
+  position: absolute; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left:50px;
+  top: 16px;
+  width: 50%; /* Full width */
+  height: 50%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  /* background-color: rgb(0,0,0); Fallback color */
+  /* background-color: rgba(0,0,0,0.4);  */
+  /* background: rgba(9, 9, 9, 0.75); */
+  z-index: 88;
+  
+  
+}
+
+/* Modal Content/Box */
+.modal-content2 {
+  background-color: #fefefe;
+  margin: 5% auto; /* 15% from the top and centered */
+  /* padding: 20px; */
+  border: 1px solid #888;
+  width: 50%; /* Could be more or less, depending on screen size */
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  box-shadow: -6.51251px 6.51251px 13.9554px rgba(0, 0, 0, 0.13);
+  border-radius: 2px;
+}
+
 
 /* The Close Button */
 .close {
@@ -1407,6 +1471,106 @@ textarea:focus, input:focus {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+.close1 {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.noth{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  margin-top: -12% !important;
+  color: #076FA3;
+}
+.noted{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  color: #4F4F4F;
+  
+}
+.signed{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+  
+  color: #4F4F4F;
+}
+.mana{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 19px;
+  /* identical to box height */
+  
+  color: #076FA3;
+  
+}
+.mana:hover{
+  color: #043147;
+}
+.isale{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height */
+  
+  color: #4F4F4F;
+  
+}
+.isale:hover{
+  color: crimson;
+}
+.yawo{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+  /* identical to box height */
+  /* text-align: center; */
+  
+  color: #4F4F4F;
+}
+.yawo1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #4F4F4F;
+  margin-top: -8%;
+}
+.agoo{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  color: #4F4F4F;
+  
 }
 .westy{
   background: linear-gradient(273.11deg, #127BB2 -40.9%, #145B80 99.63%);
@@ -1506,6 +1670,9 @@ textarea:focus, input:focus {
 }
 .yet:hover{
   border: 1px solid lightslategrey !important;
+}
+.wewee{
+  margin-left: auto !important;
 }
 
 /* ---------------------------------------------------
