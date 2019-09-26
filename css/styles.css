@@ -9,7 +9,10 @@ body {
     background-image: url(../img/Group49briks.png);
     background-size: cover;
 }
-
+.scale1{
+    background-image: url(../img/Group\ 49walla.png);
+    background-size: cover;
+}
 .underline {
     background-color: #fff;
     width: 30px;
@@ -224,7 +227,7 @@ a {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: bold;
-    font-size: 38px;
+    font-size: 44px;
     line-height: 66px;
     text-align: center;
     color: #FFFFFF;
@@ -244,7 +247,7 @@ a {
 .section-3 {
     background: linear-gradient(270.37deg, #2391CA 5.99%, #1F719C 99.9%);
     /* transform: matrix(1, 0, 0, 1, 0, 0); */
-    padding: 5% 0 5% 0;
+    padding: 2% 0 1% 0;
 }
 
 .way {
@@ -308,8 +311,8 @@ footer {
 .foot3 {
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: bold;
-    font-size: 19px;
+    font-weight: 600;
+    font-size: 17px;
     line-height: 24px;
     /* identical to box height */
     color: #303030;
@@ -382,6 +385,17 @@ footer {
     font-style: normal;
     font-weight: bold;
     font-size: 27.3912px;
+    line-height: 140%;
+    margin-top: -4%;
+    /* or 44px */
+    text-transform: uppercase;
+    color: #B3E2FA;
+}
+.rob{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19.3912px;
     line-height: 140%;
     margin-top: -4%;
     /* or 44px */
@@ -519,14 +533,14 @@ footer {
 }
 
 .drip2 {
-    width: 12%;
+    width: 14%;
     position: absolute;
     top: 2px;
     left: -8%;
 }
 
 .drip4 {
-    width: 12%;
+    width: 20%;
     position: absolute;
     top: 2px;
     right: -8%;
@@ -1013,12 +1027,17 @@ margin-top: 1px !important;
         width: 50%;
     }
 }
-/* Smartphones (portrait) ----------- */
-
-@media only screen and (max-width: 320px) {
-    /* STYLES GO HERE */
+@media screen and (min-width: 1440px) {
+    .phun {
+        position: absolute;
+        bottom: 0;
+        right: -12.29%;
+        width: 60%;
+    }
+    .googs{
+        padding-bottom: 13px;
+    }
 }
-
 input,
 select,
 textarea {
