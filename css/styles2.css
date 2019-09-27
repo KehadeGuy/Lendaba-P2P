@@ -1378,7 +1378,7 @@ textarea:focus, input:focus {
   background: #FFFFFF;
   mix-blend-mode: normal;
   box-shadow: -6.51251px 6.51251px 13.9554px rgba(0, 0, 0, 0.13);
-  border-radius: 2px;
+  border-radius: 8px;
   
 }
 /* popup */
@@ -1396,6 +1396,7 @@ textarea:focus, input:focus {
   /* background-color: rgba(0,0,0,0.4);  */
   /* background: rgba(9, 9, 9, 0.75); */
   z-index: 88;
+  padding: 0 0 2rem 0;
   
   
 }
@@ -1405,12 +1406,12 @@ textarea:focus, input:focus {
   background-color: #fefefe;
   margin: 5% auto; /* 15% from the top and centered */
   /* padding: 20px; */
-  border: 1px solid #888;
+  /* border: 1px solid #888; */
   width: 50%; /* Could be more or less, depending on screen size */
   background: #FFFFFF;
   mix-blend-mode: normal;
   box-shadow: -6.51251px 6.51251px 13.9554px rgba(0, 0, 0, 0.13);
-  border-radius: 2px;
+  border-radius: 8px;
 }
 
 
@@ -1619,7 +1620,7 @@ textarea:focus, input:focus {
   margin-left: auto !important;
 }
 .sidenav{
-	height: 100%; /* Full-height: remove this if you want "auto" height */
+	height: 105%; /* Full-height: remove this if you want "auto" height */
 	
 	position: fixed; /* Fixed Sidebar (stay in place on scroll) */
 	z-index: 1; /* Stay on top */
@@ -1637,6 +1638,56 @@ textarea:focus, input:focus {
   .main3{
     margin-left: 270px;
   }
+
+ /* The container <div> - needed to position the dropdown content */
+ .dropdown1 {
+	position: relative;
+	display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content1 {
+	display: none;
+	position: relative;
+	right: -140%;
+	top: 18%;
+	position: absolute;
+	background: #FFFFFF;
+  box-shadow: -5px 5px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+    min-width: 20px;
+    min-height: 30px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+	padding: 3px 0;
+
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content1 a {
+	color: grey;
+	text-decoration: none;
+	display: block;
+	font-family: 'Roboto'!important;
+	font-weight: 600;
+	font-size: 10px;
+  }
+
+  
+  
+  /* Change color of dropdown links on hover */
+  /* .dropdown-content a:hover {background-color: #ddd;} */
+  
+  /* Show the dropdown menu on hover */
+  .dropdown1:hover .dropdown-content1 {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown1:hover .dropbtn {background-color: transparent;}
+/* for the brands carousel */
+
+.row .dropdown-item{
+  background-color: transparent !important;
+}
 
 /* ---------------------------------------------------
 MEDIAQUERIES
