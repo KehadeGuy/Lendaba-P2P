@@ -390,7 +390,7 @@ SIDEBAR STYLE
 }
 .active{
     border-left: 6px solid #259DD9;
-    background-color: lightgrey;
+    background: rgba(209, 209, 209, 0.64);
     width: 100%;
     /* margin-left: -20px; */
 }
