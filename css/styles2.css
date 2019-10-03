@@ -391,8 +391,8 @@ SIDEBAR STYLE
 .active{
     border-left: 6px solid #259DD9;
     background: rgba(209, 209, 209, 0.64);
-    width: 100%;
-    /* margin-left: -20px; */
+    width: 129%;
+    margin-left: -20px;
 }
 .ovver{
     background: #FFFFFF;
