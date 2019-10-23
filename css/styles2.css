@@ -1367,7 +1367,70 @@ textarea:focus, input:focus {
 
   
 }
-
+.activ{
+	background: #259DD9;
+	color: white;
+}
+.activ1{
+  background: #BDBDBD;
+  opacity: 0.5;
+  color: white;
+}
+.btn1{
+  background: #D9D9D9;
+  border-radius: 5px;
+  color: #ABABAB;
+}
+.small{
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 19px;
+  /* identical to box height */
+  
+  color: #5E6D85;
+}
+tbody td{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  color: #5E6D85;
+  
+}
+.app1{
+  color: #24A90E;
+}
+.app2{
+  color: #FF0000;
+}
+.app3{
+  color: #259DD9;
+}
+.borrw{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 27px;
+  /* identical to box height */
+  
+  color: #5D5D5D;
+}
+.playd{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  color: #5E6D85;
+}
 /* Modal Content/Box */
 .modal-content1 {
   background-color: #fefefe;
@@ -1933,11 +1996,6 @@ small{
 }
 
 /* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-/* STYLES GO HERE */
-}
-
 
 @media (max-width: 768px) {
 	#sidebar {
@@ -1954,7 +2012,4 @@ and (max-width : 320px) {
 }
 input, select, textarea {
   color: black !important;
-  }
-  @media screen and (min-width: 1440px){
-    
   }
