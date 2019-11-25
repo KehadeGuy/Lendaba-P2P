@@ -1751,6 +1751,58 @@ tbody td{
 .row .dropdown-item{
   background-color: transparent !important;
 }
+.wayd{
+  background: rgb(20, 98, 138);
+  border-radius: 15.1675px;
+}
+.wayd__1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11.5066px;
+  line-height: 19px;
+  letter-spacing: 0.814229px;  
+  color: #FFFFFF;
+}
+.wayd__2{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.1314px;
+  line-height: 26px;
+  letter-spacing: 2.86245px;
+  margin-top: -.8rem !important;
+  color: #FFFFFF;
+}
+.wayd__3{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.8781px;
+  line-height: 16px;
+  letter-spacing: 0.814229px;
+  color: #FFFFFF;
+}
+.wayd__4{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.8745px;
+  line-height: 21px;
+  letter-spacing: 1.88538px;
+  margin-top: -.6rem !important;
+  color: #FFFFFF;
+}
+.rayden__1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  color: #1992CE;
+}
 
 /* ---------------------------------------------------
 MEDIAQUERIES
@@ -1763,6 +1815,9 @@ and (max-device-width : 480px) {
     font-size: 14.9626px;
     line-height: 38px;
 
+  }
+  .main3{
+    margin-left: 0% !important;
   }
   .scann, .scann2{
     margin-bottom: 15px !important;

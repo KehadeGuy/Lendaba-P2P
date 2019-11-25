@@ -87,7 +87,7 @@ body {
     position: absolute;
     bottom: 0;
     right: -9.2%;
-    width: 65%;
+    width: 55%;
     height: 79%;
 }
 
@@ -1019,14 +1019,6 @@ margin-top: 1px !important;
 }
 /* Bigger screens */
 
-@media screen and (min-width: 1680px) {
-    .phun {
-        position: absolute;
-        bottom: 0;
-        right: -23.38%;
-        width: 50%;
-    }
-}
 @media screen and (min-width: 1440px) {
     .phun {
         position: absolute;
@@ -1036,6 +1028,14 @@ margin-top: 1px !important;
     }
     .googs{
         padding-bottom: 13px;
+    }
+}
+@media screen and (min-width: 1680px) {
+    .phun {
+        position: absolute;
+        bottom: 0;
+        right: -21.2%;
+        width: 57%;
     }
 }
 input,
