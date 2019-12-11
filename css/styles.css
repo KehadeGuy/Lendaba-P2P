@@ -1,4 +1,5 @@
     @import url('https://fonts.googleapis.com/css?family=Poppins:400,900&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Asap&display=swap');
 body {
     margin: 0;
     padding: 0;
@@ -698,6 +699,104 @@ footer {
     /* identical to box height */
     color: #C4C4C4;
     text-align: center;
+}
+.sala__9{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 49px;
+    /* identical to box height */
+    
+    color: #0C587E;
+    
+}
+.sala__91{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    color: #0C587E;
+}
+.sala__92{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    color: #0C587E;
+}
+.sala__99 li{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 27px;
+    color: #0C587E;
+    margin-top: .3rem;
+}
+.were{
+    position: relative;
+}
+.were1{
+    position: absolute;
+    top: -3%;
+    right: 0;
+    width: 25%;
+
+}
+/* Terms */
+.ht__terms{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 62.8036px;
+    line-height: 110%;
+    color: #B3E2FA;
+
+}
+.ht__2_terms{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+}
+.sect-1p{
+    font-family: "Poppins";
+    font-size: 19px;
+    color: #0C587E;
+    font-weight: bold;
+}
+.sect-2p{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 26px;
+    color: #686868;
+}
+.sect-12p{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 26px;
+    color: #686868;
+}
+.sect-3p{
+    font-family: "Poppins";
+    font-size: 16px;
+    color: #0C587E;
+    font-weight: bold;
 }
 /* Bigger screens */
 
